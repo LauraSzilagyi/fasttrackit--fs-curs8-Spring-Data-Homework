@@ -1,7 +1,7 @@
 package ro.fasttrackit.curs8.curs8homework.entity;
 
 import lombok.*;
-import ro.fasttrackit.curs8.curs8homework.entity.enums.Outcome;
+import ro.fasttrackit.curs8.curs8homework.enums.Outcome;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

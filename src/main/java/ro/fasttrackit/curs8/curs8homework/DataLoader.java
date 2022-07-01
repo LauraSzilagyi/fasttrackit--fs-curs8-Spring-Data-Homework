@@ -4,7 +4,7 @@ import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 import ro.fasttrackit.curs8.curs8homework.entity.*;
-import ro.fasttrackit.curs8.curs8homework.entity.enums.Outcome;
+import ro.fasttrackit.curs8.curs8homework.enums.Outcome;
 import ro.fasttrackit.curs8.curs8homework.repository.ReviewRepository;
 import ro.fasttrackit.curs8.curs8homework.repository.RoomRepository;
 
